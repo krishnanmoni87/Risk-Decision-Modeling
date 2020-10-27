@@ -1,5 +1,6 @@
 # Risk-Decision-Modeling
 This is my Master's degree dissertation project I completed for TSSA
+Note: Elevator_risk_availability_Influence_Diagram.neta file can be run only once Netica application is downloaded and installed in your system. This is easily available online.
 
 EXECUTIVE SUMMARY
 
